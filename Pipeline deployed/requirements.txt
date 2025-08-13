@@ -2,7 +2,5 @@ flask
 pandas
 numpy
 scikit-learn
-pickel
-matplotlib
-seaborn
+pickle
 jupyter
