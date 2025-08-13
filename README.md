@@ -31,7 +31,7 @@ LOAN PREDICTION.ipynb # Notebook trained with multiple models
 ### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/Sarumathi17/Project1_1.git
-cd Project1_1/Pipeline\ deployed
+cd Project1_1/Pipeline deployed
 ```
 
 ### 2️⃣ Install dependencies
@@ -68,7 +68,10 @@ http://<your-public-ip>:8000/
 
 ## 📸 Screenshot
 
-<p align="center"> <img src="images/"C:\Users\msaru\OneDrive\Pictures\Screenshots\Screenshot 2025-08-13 215848.png"" width="800"> </p>
+<p align="center">
+  <img src="Image.png" width="800">
+</p>
+
 
 
 ---
