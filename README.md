@@ -31,12 +31,12 @@ LOAN PREDICTION.ipynb # Notebook trained with multiple models
 ### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/Sarumathi17/Project1_1.git
-cd Project1_1/Pipeline deployed
+cd "Project1_1/Pipeline deployed"
 ```
 
 ### 2️⃣ Install dependencies
 
-Make sure you have Python installed (>=3.8), then run:
+Make sure you have Python installed (>= "3.10" and < "3.13"), then run:
 ```bash
 pip install -r requirements.txt
 ```
