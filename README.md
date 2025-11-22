@@ -22,7 +22,7 @@ Pipeline deployed/
 └──  loann.py # Flask app
 
 Additional:
-LOAN PREDICTION.ipynb # Notebook trained with multiple models
+My Project .ipynb # Notebook trained with multiple models
 
 ---
 
