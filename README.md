@@ -22,7 +22,7 @@ Pipeline deployed/
 └──  loann.py # Flask app
 
 Additional:
-My Project .ipynb # Notebook trained with multiple models
+LOAN PREDICTION.ipynb # Notebook trained with multiple models
 
 ---
 
@@ -70,6 +70,8 @@ http://<your-public-ip>:8000/
 
 <p align="center">
   <img src="Image.png" width="800">
+<p align="center">
+  <img src="Image1.png" width="800">
 </p>
 
 
